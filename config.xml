@@ -15,7 +15,7 @@
     <preference name="StatusBarStyle" value="default" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name='phonegap-version' value='cli-4.3.1' />
+    <preference name='phonegap-version' value='cli-6.5.0' />
     <access origin="*" />
     <content src="index.html" />
      <platform name="windows">
